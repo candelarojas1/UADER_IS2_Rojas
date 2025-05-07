@@ -1,2 +1,2 @@
 # UADER_IS2_Rojas
-Trabajo prácticos de Ing. de Software
+Trabajos prácticos de Ing. de Software
